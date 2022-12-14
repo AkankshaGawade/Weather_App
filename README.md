@@ -6,6 +6,7 @@ Weather App
 Weather is something that never remains constant. Getting to know precise weather conditions helps people to plan out their daily schedule. With weather forecasting technology reaching to the skies, dissemination of the forecast to has taken diverse routes. Weather app development is one such happy fallout. Weather apps enable users to get instant alerts regarding weather conditions. Weather apps are the simplest method to know about the updates of the upcoming weather.
 
 APIs Used
+
 Open Weather APIs
 
 https://openweathermap.org/current
